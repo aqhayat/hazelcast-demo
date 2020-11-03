@@ -1,2 +1,4 @@
 # hazelcast-demo
-hazelcast-demo spring boot application
+hazelcast-demo Spring-boot Application, in memory distributed caching
+
+# Need for Hazelcast
