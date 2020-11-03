@@ -14,3 +14,12 @@ The goal of In-Memory Data Grids (IMDG) is to provide extremely high availabilit
 1- Clustering - Hazelcast has a clustered set of Nodes that work in unison
 2- Distributed - The data in Hazelcast is distributed in all the nodes
 
+![alt text](https://www.codeusingjava.com/hazel1-5-min.JPG)
+
+3- Fault Tolerant - Hazelcast maintains replicated copies of data
+
+![alt text](https://www.codeusingjava.com/hazel1-6-min.JPG)
+
+4- Application scaling - Hazelcast can be scaled horizontally. It is Elastic in nature. New nodes can be added in cluster, and the data in the nodes get automatically distributed again in all the nodes
+
+![alt text](https://www.codeusingjava.com/hazel1-7-min.JPG)
